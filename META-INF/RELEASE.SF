@@ -1,0 +1,1610 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: x/m11ArtWWwg5I8p/wTD6UcKPdw=
+Created-By: 1.7.0_79 (Oracle Corporation)
+SHA1-Digest-Manifest: S4+ebQ+MD14pmlqTyy3BxXS/MiQ=
+
+Name: assets/bin/Data/Managed/Assembly-CSharp.dll
+SHA1-Digest: /I+cKs5CNJ37S3g7SCba/F7LQX8=
+
+Name: res/drawable-mdpi-v4/ic_action_search.png
+SHA1-Digest: 0U2AND/I6x0MYdGdh+pMPpilSXY=
+
+Name: assets/Android/gui/textures/ui_pic_duanzao_jinglian.ab
+SHA1-Digest: Acf0hgIznGMhFGf0/YTyn18z22A=
+
+Name: lib/x86/libtolua.so
+SHA1-Digest: R0MEA4Pz/+J1QtSaXCAYOkSxDc0=
+
+Name: assets/Android/sound/1001.ab
+SHA1-Digest: KhkgBvBdLV6wFULlQ8BJla+M488=
+
+Name: assets/Android/lua/lua_controller_banghui.unity3d
+SHA1-Digest: EFfSbfN6Lf89T2u+68B+l7mMr2o=
+
+Name: assets/Android/gui/textures/ui_vipfb_role02.ab
+SHA1-Digest: 74xr9B18z5lbmI2buIYOKvzDYys=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_softlink.so
+SHA1-Digest: COklkmym8EaZIfXHj2eXqQbSfZw=
+
+Name: assets/Android/models/70010.ab
+SHA1-Digest: lJkTeop5k10a2c62JQPnSjucZSU=
+
+Name: assets/Android/models/34001.ab
+SHA1-Digest: KSBW8s3XgwCWsE7FJ/pIj/0HZTs=
+
+Name: assets/bin/Data/Managed/Pathfinding.Ionic.Zip.Reduced.dll
+SHA1-Digest: 7iWLCSozPP8RUpiZ0wu3wQwqKA4=
+
+Name: assets/Android/models/71003.ab
+SHA1-Digest: gFTjdEQVzZdicMjPhbuY5AGtyXU=
+
+Name: assets/Android/gui/textures/15_20004.ab
+SHA1-Digest: /0DLrxaZIFw3G101mVRWuJ8YTKI=
+
+Name: assets/Android/models/13001.ab
+SHA1-Digest: oeF+o9T0aOikAUJ3g6iGVzbGN1E=
+
+Name: assets/Android/lua/lua_setting_skill.unity3d
+SHA1-Digest: mQnOTlekRhxQTb/+InaoCPh52/U=
+
+Name: assets/Android/lua/protocol/proto.conf
+SHA1-Digest: 20z+QqhBgo2TTeC3Ofl1WeG/zUg=
+
+Name: assets/Android/sound/1008.ab
+SHA1-Digest: KP/pJ9WIcibYJFajKqKEhbM/dIQ=
+
+Name: assets/bin/Data/sharedassets3.assets.split0
+SHA1-Digest: uyB5ibOwei4BdB/72DAcB02AZ94=
+
+Name: assets/bin/Data/sharedassets3.assets.split1
+SHA1-Digest: IxOztfhZR2PbAUTUz5iKszlXczg=
+
+Name: assets/Android/gui/textures/14_20004.ab
+SHA1-Digest: n9LeK0pXN4OxLmGtT7odEQfw3Xg=
+
+Name: assets/Android/lua/lua_unityengine.unity3d
+SHA1-Digest: bXc39PU92AJeoT7nG6ybzfxGx4g=
+
+Name: assets/bin/Data/sharedassets3.assets.split2
+SHA1-Digest: t7eiVwLfTqcXVbmZIr7nDzhuSoQ=
+
+Name: assets/Android/sound/2002.ab
+SHA1-Digest: f6vEEEYIy0c+1VdY9392mEQPJR4=
+
+Name: assets/bin/Data/773952d1ab5b7714392cdc5473b20244
+SHA1-Digest: qf+JtvfbS/7ZYPVREnj5eGTDET0=
+
+Name: res/drawable-xhdpi-v4/app_banner.png
+SHA1-Digest: GmAqfy00mkN6GabsZhcK6EHDtzI=
+
+Name: assets/Android/lua/lua_system.unity3d
+SHA1-Digest: GqLuVp0D/Dto0MXHCfHUPn31n7s=
+
+Name: assets/Android/lua/lua_controller_guide.unity3d
+SHA1-Digest: lj1Ug4PvxGmjUT2hiDT59Umt294=
+
+Name: assets/Android/lua/lua_system_reflection.unity3d
+SHA1-Digest: 410IQmG/CUVX/a3yy0/wHjmu/Zc=
+
+Name: assets/Android/gui/textures/3_10005.ab
+SHA1-Digest: DtlKKJvoMdNkNhEvZG0YHRVQigI=
+
+Name: assets/Android/gui/textures/ui_bangpai_bpqz_d1.ab
+SHA1-Digest: 0xPrO0OtxBnLiYnStJjVW0A9Kok=
+
+Name: assets/bin/Data/Managed/UnityEngine.Networking.dll
+SHA1-Digest: V4guk9uLSKug0//Wb78Y6JD/pj4=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_patch.so
+SHA1-Digest: P+gl756d7XsmVNOu9I3xa8H8wDw=
+
+Name: assets/bin/Data/sharedassets3.assets.split8
+SHA1-Digest: wU1Dv4Rq8d5y8RB30rGrF7Bz3mo=
+
+Name: assets/bin/Data/sharedassets3.assets.split7
+SHA1-Digest: wew80Hu17lNyln3GAX5Qkiz9gk8=
+
+Name: assets/bin/Data/sharedassets3.assets.split9
+SHA1-Digest: FJ/6rtx3RL5FyN8mhhEh5GpmgrI=
+
+Name: assets/bin/Data/sharedassets3.assets.split4
+SHA1-Digest: wd3jJcyT8RoEcc9QgdjTfK0NhWE=
+
+Name: assets/Android/effect/role_skill.ab
+SHA1-Digest: I1/toaiZ81RW0a1zU3lVqZfRhRg=
+
+Name: assets/bin/Data/sharedassets3.assets.split3
+SHA1-Digest: +pUb6+NmVZ5XyOfUNzcjtTRqSpk=
+
+Name: assets/bin/Data/sharedassets3.assets.split6
+SHA1-Digest: fKy4qMyXY6Ss0tadVa4eVw9Ifjg=
+
+Name: assets/bin/Data/sharedassets3.assets.split5
+SHA1-Digest: dCKpUIR63tohPy9WRHgUCG5MUp8=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_softlink.so
+SHA1-Digest: hdGWMmzXl1UHfIY9PcQSabENmoo=
+
+Name: assets/Android/models/30000.ab
+SHA1-Digest: riuxQ4cHQbp/d9YS+ISoAkNNHJ0=
+
+Name: assets/bin/Data/ca57060a2de606440958c8a23b7a4cbe
+SHA1-Digest: /gCemQf4PmoE/8EXgLXHVfBFP6w=
+
+Name: assets/Android/lua/lua_plotjump.unity3d
+SHA1-Digest: 3oGvQjLxPNjABivw+aH/ee4Za0g=
+
+Name: assets/bin/Data/a2e4ddafacdeb1043bf15460fe0fdfef
+SHA1-Digest: 7hC5cNeFSCjBnZqid6BZ5Ekqeig=
+
+Name: assets/Android/gui/textures/ui_bangpai_buj03.ab
+SHA1-Digest: fCRwOX7D/4I4StSx4ltYuHwcFCU=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_xcrypt.so
+SHA1-Digest: 1KddV2/iP4FxpN9TIH8TNeaGSYg=
+
+Name: assets/Android/scenes/11000.ab
+SHA1-Digest: 8jWOXX7+eaqqGVsub0fyvBXRAvw=
+
+Name: assets/Android/gui/textures/ui_vipfb_role01.ab
+SHA1-Digest: p8gP2jTREHaVlRhV9qlWO0aIqJg=
+
+Name: assets/Android/models/70004.ab
+SHA1-Digest: zXPfyN2I9E1OYB5RgaraY16n2d4=
+
+Name: assets/bin/Data/4505fec7a81214243b8e59edf89e3a53
+SHA1-Digest: euK7Mw8spNp/+TEV+ZriOwe8o38=
+
+Name: assets/Android/lua/lua_view_map.unity3d
+SHA1-Digest: 4O++bA4eRy3/Hv4OjbWEPwjo/No=
+
+Name: assets/bin/Data/1581548219926aa4c9dacfe6c00d5154
+SHA1-Digest: tYTROOYsVBCLWeTKgNxLdb8n3BY=
+
+Name: assets/Android/gui/textures/minimap20005.ab
+SHA1-Digest: aHeq9FEx6RZM8S+97Aps5sRClMo=
+
+Name: assets/Android/sound/1005.ab
+SHA1-Digest: 0qU/8N2Lu41ZPORLMnIX52EKeCQ=
+
+Name: assets/Android/models/71001.ab
+SHA1-Digest: KCD0MCUFQtVvPK9sizP2K91pqyY=
+
+Name: assets/bin/Data/Managed/System.Xml.dll
+SHA1-Digest: Xf3iblXe8VapkwQxQga9l/fH/h0=
+
+Name: assets/bin/Data/b43461a82222042498e7e36a1d5f452f
+SHA1-Digest: KontCr5OaW0goPZTkfHkW4RFMH4=
+
+Name: assets/bin/Data/Managed/Pathfinding.Poly2Tri.dll
+SHA1-Digest: K0INYTe628dcR49Kb4mLMWNGKZc=
+
+Name: assets/Android/models/71002.ab
+SHA1-Digest: 7tTK9t79ydqtOxnh3TDVMchYyrQ=
+
+Name: assets/bin/Data/e37f44f1a08cf594fb6b3919774527ed
+SHA1-Digest: b4YeWl2ck0b94ePKoNM0mFLW1oM=
+
+Name: assets/Android/sound/1003.ab
+SHA1-Digest: 2kx3574W+SoXxhsBnXPXpT6W4Pw=
+
+Name: assets/Android/gui/textures/ui_xiandaosl_tox1.ab
+SHA1-Digest: l+DaCdn0D6xFYkQYHu3c1axf3fU=
+
+Name: assets/Android/gui/textures/ui_drfb_cj02.ab
+SHA1-Digest: r6Fpz8mZYsOjh8QrewdUutVhy0Y=
+
+Name: assets/Android/models/21010.ab
+SHA1-Digest: yumCSg9WomNQVRh2sIDU60gMEuY=
+
+Name: assets/Android/gui/textures/ui_pic_jinjiechenggong.ab
+SHA1-Digest: LliDTqZTTlP8vfBCC3XG382Uy28=
+
+Name: assets/Android/models/71000.ab
+SHA1-Digest: 3v1zc1Yqm7jwuQqtLFcmIqYi9WU=
+
+Name: assets/Android/effect/lineeffect.ab
+SHA1-Digest: +yxS+/7ZbX7nA0YcJzUuoOZj3R8=
+
+Name: res/layout/activity_splash.xml
+SHA1-Digest: CQNmq29fSyXt5y/Z07JWKTFhEJ4=
+
+Name: assets/Android/gui/textures/ui_pic_zhuling.ab
+SHA1-Digest: zTXlbKhZMha+0BKqeKMW9vAyZng=
+
+Name: assets/Android/gui/textures/minimap10003.ab
+SHA1-Digest: lwckJAyktsx8H7wEmd9SggUN1Mg=
+
+Name: assets/Android/gui/textures/minimap10005.ab
+SHA1-Digest: 4l04L+lyU6LHn9VQ48lBqcTrsIM=
+
+Name: assets/Android/lua/lua_model_login.unity3d
+SHA1-Digest: dcE4bboAyT3ZgDLyg1biYiT+AuQ=
+
+Name: assets/Android/gui/textures/ui_bangpai_buj02.ab
+SHA1-Digest: 31isq9CQ9Aa/3oghc9fuVWf6o+Y=
+
+Name: assets/Android/gui/textures/22_10001.ab
+SHA1-Digest: AXY1clBxf3P4Ho17a4sy/gstTS8=
+
+Name: assets/bin/Data/sharedassets4.assets
+SHA1-Digest: gOpEe1HvXrEWjrzMfH+3gXyU2yw=
+
+Name: assets/Android/scenes/10001.ab
+SHA1-Digest: WF5PgMWdknKC3pQPfoY2Ij1WDWE=
+
+Name: assets/Android/lua/lua_setting_npc_npc_battle_data.unity3d
+SHA1-Digest: NTUvLiX/Ph67urMFi5wVV3B2ZG4=
+
+Name: assets/bin/Data/sharedassets0.assets
+SHA1-Digest: GfH2qjUOrE58dGuTVhpkE55YfJc=
+
+Name: assets/Android/gui/textures/minimap20002.ab
+SHA1-Digest: K/cy9bQSMQkn/HdICdzcW8lNGAc=
+
+Name: assets/Android/lua/lua_socket.unity3d
+SHA1-Digest: cj4YfIJbLoxETcAorxnSk8o+d40=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/list
+SHA1-Digest: CDyE2v9c2osqI520s1EpzF0DLEA=
+
+Name: assets/bin/Data/714e76887f6e71846995410d1eb0581b
+SHA1-Digest: cz4w3k4pjicrrtI+11sB6cZPd08=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA1-Digest: pDNaxffoIY7MMk3vyZZYxNFCW5A=
+
+Name: assets/bin/Data/d8e49f664f128c743ae4a6e404da9a5b
+SHA1-Digest: S8mKxfgn2M92DRUqDdsSHDFVMvI=
+
+Name: assets/Android/gui/textures/ui_sz_show_background.ab
+SHA1-Digest: Q5IPVp+ZGMxCN9qbRSxJXV4TCn8=
+
+Name: assets/Android/models/60000.ab
+SHA1-Digest: 7BlSx+6ELC0iCOSmDgGLcAHNlu0=
+
+Name: assets/Android/models/60001.ab
+SHA1-Digest: 8Pg0KLilj8122y5CDcE3QfHPDe4=
+
+Name: assets/Android/gui/textures/ui_panel_character.ab
+SHA1-Digest: lJm5iI0G2M+rdLC6EdWQZFVTpXo=
+
+Name: assets/Android/scenes/10002.ab
+SHA1-Digest: QyahNQydAdgAbcrPAePPkABNI4o=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_01.ab
+SHA1-Digest: xgcHzp9OkXx+sLYBeLpKfpNf7gY=
+
+Name: assets/bin/Data/Managed/DOTween.dll
+SHA1-Digest: OmSacq/tuIeQZYJaa/7/38DubJM=
+
+Name: assets/Android/scenes/10003.ab
+SHA1-Digest: DiKzS4fxtzYe2d9C1BjOSPM4qwU=
+
+Name: assets/Android/gui/textures/ui_panel_husong.ab
+SHA1-Digest: fBnVeVKGgOgJFY8b+lynxZDG1ek=
+
+Name: assets/Android/gui/gui_activity.ab
+SHA1-Digest: kEnHVdv02NQypl0+00TbDKqzEz4=
+
+Name: assets/Android/gui/textures/ui_fulidt_a_3.ab
+SHA1-Digest: s4xE8DWR/esg8qO0P4B9q3S6Ccs=
+
+Name: assets/Android/gui/textures/ui_word_husongshibai.ab
+SHA1-Digest: 8Wduf/Pt6VRMwbcdLZhc5rvgcVk=
+
+Name: assets/ucgamesdk/lib/list
+SHA1-Digest: SXjF94+QNGTBtsZLg9+rsyD0Ns4=
+
+Name: assets/Android/models/35001.ab
+SHA1-Digest: kshPGsFLrJHdt/t0v0AUC+/y8t8=
+
+Name: assets/bin/Data/2cd1f5408130bdc4cbcf8c8fab8efd21
+SHA1-Digest: A4/VtKkMWk6oVygtABp9mOQ2ViE=
+
+Name: assets/Android/gui/textures/64100.ab
+SHA1-Digest: Bj0hx9auPskLUrL8NyuRqRq1UgQ=
+
+Name: assets/bin/Data/Resources/unity_builtin_extra
+SHA1-Digest: Uvf6NiQ5ReWzJkmVje/X53gCjYY=
+
+Name: assets/bin/Data/dba9f3f8325ade14e8b2b9be2d29127d
+SHA1-Digest: PRJK3JHikgtwT7HLkz4+A8TWOOM=
+
+Name: assets/Android/gui/textures/minimap20003.ab
+SHA1-Digest: 3ZVuDV9KhycTZtw4ZQctToy3ORA=
+
+Name: assets/Android/gui/textures/ui_zjfb_pic_05.ab
+SHA1-Digest: ZQG+tNE3kAUeNj4Cj5djmStNEjk=
+
+Name: assets/bin/Data/b4a39e223b86cf24d82d7c34e6366131
+SHA1-Digest: MtI5QjJ/zYU3Say6hKAbeAl1Z+Q=
+
+Name: assets/Android/models/13003.ab
+SHA1-Digest: F6KJS5MhIJed6MgoOPjT07k1IVU=
+
+Name: assets/Android/lua/lua_controller_sevenday.unity3d
+SHA1-Digest: JPAni3LU6yrPBAQ5oVwCVnnEbIM=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_06.ab
+SHA1-Digest: s47d9srJrBM1rMou7T2tBu0a6mI=
+
+Name: assets/Android/gui/textures/ui_fulidt_b_1.ab
+SHA1-Digest: moEa7mwVHzT4DHoxWHULxyBgV+s=
+
+Name: assets/bin/Data/74597699f47d8ae458dca68f79f1b21f
+SHA1-Digest: nGhRjSciIFy9OpeVxAgAhedI0uE=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Wea1ydZYWygX9gvT9pT8LXEVzVY=
+
+Name: assets/bin/Data/a540e20118516b1449b2bb6293d1030a
+SHA1-Digest: HDk9i4YL3aUp+TXUQ+CsMZmVUvQ=
+
+Name: assets/Android/scenes/30000.ab
+SHA1-Digest: 9r8dv7pyEt9kZd2fXDuvB0JEhio=
+
+Name: assets/Android/gui/textures/7_10003.ab
+SHA1-Digest: tP8TzvZ8msADgkdcx7z55fLs040=
+
+Name: assets/Android/gui/textures/minimap20001.ab
+SHA1-Digest: 1ejqV+uz+I1ciFm/90Bfk/C4kFo=
+
+Name: assets/Android/gui/textures/ui_pic_duanzao_qianghua.ab
+SHA1-Digest: uuNZFU6IUvrfULFURlFFx4JjcLU=
+
+Name: assets/bin/Data/12748449efbff304498fd19a4ab3a4ca
+SHA1-Digest: 4np6drI1eUjLi3RHnXLvl7YoZU8=
+
+Name: assets/Android/gui/textures/ui_normal_panel.ab
+SHA1-Digest: Yz5TxrNib/wYAFmT+TdG7u4qZVw=
+
+Name: assets/bin/Data/9a5684e0e56583c43b809876b457c953
+SHA1-Digest: 4iNUNTutiOilKBTKe3IAlDHQo7k=
+
+Name: assets/Android/gui/textures/circlemask.ab
+SHA1-Digest: dQQRQcNIuD3H6N7zOJID67fgmew=
+
+Name: assets/Android/gui/textures/10_10003.ab
+SHA1-Digest: H856avY8E4hZW2us9ShsESXVAq0=
+
+Name: assets/Android/lua/lua_view_activityhall.unity3d
+SHA1-Digest: aHWe9OS+ZUINAtZcD/tMvVVaTbo=
+
+Name: assets/Android/gui/textures/minimap10002.ab
+SHA1-Digest: h5v5Lj1bu4+JII2i1+DFiyXTXEE=
+
+Name: assets/bin/Data/07657567fb0a4fe439b7e52f48d787e1
+SHA1-Digest: 9P1gkxSd7kUiKN102XKVBGfV95E=
+
+Name: assets/Android/gui/textures/ui_panel_yugao.ab
+SHA1-Digest: MOe7fAQ9x8dC1rji34q71ZZfwe4=
+
+Name: assets/Android/sound/1010.ab
+SHA1-Digest: ClcarWRe1IuHH7LgpcxTJ0gYsO4=
+
+Name: assets/Android/lua/lua_view_bag.unity3d
+SHA1-Digest: sXjA2fE0XWiNWsmnqRUz4gBVAhU=
+
+Name: assets/Android/gui/textures/ui_neigong_dtu.ab
+SHA1-Digest: bKnyvqnlPbosKIMNjoJ//SnBALU=
+
+Name: assets/bin/Data/8a71f0208c9fdcb4db537ec788ed3655
+SHA1-Digest: 4xcslPA+PSRfm7RN/SCZP+qoIGU=
+
+Name: assets/Android/gui/textures/ui_pic_baoshihecheng.ab
+SHA1-Digest: U/UpMICWJrVDJHFzm6fkblTx3Uo=
+
+Name: assets/bin/Data/globalgamemanagers
+SHA1-Digest: d4hkx2GpC2ixTOpqN0Ydi2w4HDs=
+
+Name: assets/bin/Data/7eb2ab8e1ad54e94783baa19f8be02d4
+SHA1-Digest: 17C54UmfRVakEVGqRv7ayPQDVvs=
+
+Name: assets/Android/sound/1002.ab
+SHA1-Digest: XYKtiPm5PBRxn2ptEKak+HUY8KI=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.utils.apk
+SHA1-Digest: HQ78RcwYfuUIdEVABEzFQmOYw6E=
+
+Name: lib/x86/libunity.so
+SHA1-Digest: A9W+dCEjff5w+rtZkJdsYOm3CUM=
+
+Name: assets/Android/gui/textures/ui_drfb_cj01.ab
+SHA1-Digest: RxB/NpleumxqvOWllM7haOw2n4U=
+
+Name: assets/Android/lua/lua_map.unity3d
+SHA1-Digest: HjZXEWyDkL9Wfs7DtB6yotZRr4s=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_xcrypt.so
+SHA1-Digest: 1FOVxuv4gKMqmGiy/RSFQtUDusw=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_04.ab
+SHA1-Digest: P3fMNV1hVMzLUUW4BfMedZT9Mu4=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: OkKG1AkTWmZA9dKht9LoucTQ39U=
+
+Name: assets/Android/models/40001.ab
+SHA1-Digest: Ax/duqu4h/Vio4/akGRL/al7wRU=
+
+Name: assets/Android/gui/textures/ui_vipfb_pic_beijing.ab
+SHA1-Digest: JgoNGf0EYr1GjrTJzbvBGkKuEpA=
+
+Name: assets/bin/Data/387ed7c38eb63554db846987adb98e68
+SHA1-Digest: eegN4zSRo8q7ljCahnxh+noK3PM=
+
+Name: assets/bin/Data/182695e850938314fa6675a8926ad9ee
+SHA1-Digest: Kl/ov9doyyEikNZwcwjNohHsc1k=
+
+Name: assets/Android/gui/textures/6_10005.ab
+SHA1-Digest: 1kqat8OjBDJ2ZlQgOIIYRzl8EJ8=
+
+Name: assets/Android/gui/textures/21_10001.ab
+SHA1-Digest: S5MVFX2xmlf80mfXKqctC20fae4=
+
+Name: assets/Android/models/51000.ab
+SHA1-Digest: ywCTLJzxpfW5FzXARIVoZmPxLds=
+
+Name: assets/Android/bundlemap.ab
+SHA1-Digest: tgc0EedsWax0c3Aplh4vzqJOSoI=
+
+Name: assets/Android/gui/textures/ui_fuhuo_panel.ab
+SHA1-Digest: WHdVVma3NY9gU9x757x+afKdMmU=
+
+Name: assets/bin/Data/Managed/Mono.Security.dll
+SHA1-Digest: Oe6Uoo57yjZNImn9UiTPqFHjo0A=
+
+Name: assets/Android/gui/textures/ui_fulidt_jlbox.ab
+SHA1-Digest: 4uJKNqr/hpAuwEBpU6IKzLsK/gI=
+
+Name: assets/Android/gui/textures/1_10005.ab
+SHA1-Digest: jmh83SB4/l/GmJQT4zdMafclol8=
+
+Name: assets/Android/gui/atlas_activity.ab
+SHA1-Digest: nm7QybEWhmN/oivTy32AAo4tbCU=
+
+Name: assets/Android/gui/textures/ui_zljfb_pic_06.ab
+SHA1-Digest: yopNxCnqg+iyqtdr5D8xBJN+UX4=
+
+Name: assets/bin/Data/d9098b979da7249ac89f08264ab58750
+SHA1-Digest: dSoggluZLPbLIAMyrPlLD4KuyOw=
+
+Name: assets/Android/models/71006.ab
+SHA1-Digest: gRDcfX+fxboZ0A0Nugy0pSaa/7U=
+
+Name: assets/Android/models/70101.ab
+SHA1-Digest: u3jTkeKFZRZM1vNFmqxmthXabVE=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA1-Digest: BSlfionfaylGVC4zczDuA5llOhs=
+
+Name: lib/x86/libmono.so
+SHA1-Digest: vvpA0SL7Y9ZU7W4WSvezMkYbls8=
+
+Name: assets/Android/scenes/20001.ab
+SHA1-Digest: VOuAIbKdTQoV1efOJL1tEYcYOlE=
+
+Name: assets/Android/gui/textures/64101.ab
+SHA1-Digest: T+l4XVWtNyOQ8frTZ8rM9zzKYkQ=
+
+Name: assets/Android/lua/lua_logic.unity3d
+SHA1-Digest: 25rGiR8aAhyLVnZe3DZpxIGGd20=
+
+Name: assets/Android/gui/textures/37_10002.ab
+SHA1-Digest: flc/sUVRVjTuuWxplMdaRxNLXpg=
+
+Name: assets/Android/models/70100.ab
+SHA1-Digest: 9Y0hQTUX+Y3cwgJvskcxBezt+pI=
+
+Name: assets/Android/models/50000.ab
+SHA1-Digest: wAYve6DYyDVUK0Hwszq/ufU2Oo0=
+
+Name: assets/Android/gui/textures/40_10002.ab
+SHA1-Digest: ap58WD6v3SHOx4zdvA9zwKtlgXQ=
+
+Name: assets/Android/models/70011.ab
+SHA1-Digest: 94S+hOM0L2bU79lAAsmuwDXSGuw=
+
+Name: assets/Android/lua/lua_controller_neigong.unity3d
+SHA1-Digest: ihOxkymHmttrGcSfVl3Fn5he6lg=
+
+Name: assets/Android/gui/textures/64103.ab
+SHA1-Digest: 9n1Q8YlhTWuGRCwlmzeFjdXv7fw=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_softlink.so
+SHA1-Digest: ueJADnYRcc2xGEp2Q24AHZk4n9o=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_03.ab
+SHA1-Digest: cuq4M1ywzdcUvIzgFq4AXSOa55E=
+
+Name: assets/Android/gui/textures/minimap30001.ab
+SHA1-Digest: 4nEshfeNI2USVphdiSfJSPQdbW4=
+
+Name: assets/Android/lua/lua_controller_activityhall.unity3d
+SHA1-Digest: k/8Xk95ycUHHND7O/EEJFZTozF4=
+
+Name: assets/Android/gui/textures/35_11000.ab
+SHA1-Digest: Upq+4Nn5Kc+9VXakJKFcK+iDtq4=
+
+Name: assets/Android/gui/textures/minimap10006.ab
+SHA1-Digest: AYbo+jRd3jIc9LmPAnKk75zjTG0=
+
+Name: assets/ucgamesdk/modules/list
+SHA1-Digest: EehHdkV5nHFp29kU+SZIeytJwEk=
+
+Name: assets/Android/lua/lua_common.unity3d
+SHA1-Digest: GCbmcWlqpm0f9YAB1Z0vgRBtipI=
+
+Name: lib/armeabi-v7a/libmono.so
+SHA1-Digest: viYGRzsbTau4zSzVr0kcl6UixMo=
+
+Name: assets/Android/gui/textures/64104.ab
+SHA1-Digest: jJPM5/M0F0c5QC0uBcvDFDoNGEo=
+
+Name: lib/armeabi-v7a/libtolua.so
+SHA1-Digest: DqlvsVqzhejYe1yXBAc3focINM8=
+
+Name: assets/Android/gui/textures/ui_bpzhenba_3.ab
+SHA1-Digest: /Cfnh9bn5CWBxlRVBRj9r5s9Lhc=
+
+Name: assets/ucgamesdk/lib/armeabi/list
+SHA1-Digest: Q5YcuS1+jvG3GwE8ByFo/HXfOsM=
+
+Name: assets/Android/effect/circleeffect.ab
+SHA1-Digest: pwNj1dmUTU7fYtHoq6jDzoCItD0=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.loader.apk
+SHA1-Digest: p1JnNEVQEyFIektbGgDynlulA58=
+
+Name: AndroidManifest.xml
+SHA1-Digest: q6qW2kvTLQCim3FI0ZX+Ji5sq2U=
+
+Name: assets/Android/gui/textures/ui_bangpai_hd_jm04.ab
+SHA1-Digest: R+Oe7FURuOZcUJvyoUc9Fyk/Odc=
+
+Name: assets/ucgamesdk/lib/mips/list
+SHA1-Digest: E4aDNAuF/+0M0Xjhvje8aZ1KklA=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.update.apk
+SHA1-Digest: slU95lizSbcGDaHd8ezS1r+vb/U=
+
+Name: assets/Android/models/70000.ab
+SHA1-Digest: mD5hSMUWfwfcZDXWuA5Vl5NJL1c=
+
+Name: assets/Android/gui/textures/ui_zjfb_pic_03.ab
+SHA1-Digest: YaQ5tjEvzX/EbAalqSganP32dxg=
+
+Name: assets/Android/gui/textures/17_20004.ab
+SHA1-Digest: IaC/w7T0SgK9dnFOYdP4agV7OEs=
+
+Name: assets/Android/gui/textures/36_11000.ab
+SHA1-Digest: ziw9XlyyFyKGsili47tJtiEWnz8=
+
+Name: assets/Android/models/70002.ab
+SHA1-Digest: Wja0acyYMYQpj7a81mwFrLrkziU=
+
+Name: assets/Android/sound/2001.ab
+SHA1-Digest: 8+WNZOHglQapWM53tGZkbqZp0m8=
+
+Name: assets/bin/Data/Managed/UnityEngine.dll
+SHA1-Digest: djyWV3H5ngS4hxFZ8l6CM72Z14o=
+
+Name: res/drawable-xxhdpi-v4/app_icon.png
+SHA1-Digest: ljOOSOpbKV+yqkSRdh/bqaUln+E=
+
+Name: assets/Android/sound/1004.ab
+SHA1-Digest: LGNHXa/+kFdkuO2EStcQXCfFxq8=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_patch.so
+SHA1-Digest: 6k4Fh+/yHyd0to+W/tJ0HVULyu0=
+
+Name: assets/bin/Data/d1ba9e7ba321b2c4d97f6a19f1deab6a
+SHA1-Digest: R4fCa+Mgc34mO35ZdBZeqtsm2Hs=
+
+Name: classes.dex
+SHA1-Digest: bsrlkQKY4gQStgVl0D+xkQduWjU=
+
+Name: assets/bin/Data/c6f11eb0ceeb5e044b3199208e1a99bf
+SHA1-Digest: 7O0ODBauw8AfAOf/X7H/nlXUyjg=
+
+Name: assets/Android/scenes/20000.ab
+SHA1-Digest: F5c4IeLHsxVNOKvCnnMCGN2Odyw=
+
+Name: assets/Android/gui/textures/ui_fulidt_a_2.ab
+SHA1-Digest: XVtlLefN2dHI61JhqLxyKn5eiFo=
+
+Name: res/menu/activity_splash.xml
+SHA1-Digest: meYWpepYSUrHqe2nd9gg9yI9Tws=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_02.ab
+SHA1-Digest: xZ0CirP6hwhpepWg9fM9Eud+GNk=
+
+Name: assets/bin/Data/Managed/Pathfinding.ClipperLib.dll
+SHA1-Digest: 7q28XXjVt4wiIe0UHU6qcOYbMfg=
+
+Name: assets/Android/gui/textures/64105.ab
+SHA1-Digest: PWMDkV4zRXeqLLMHPYhA4HkeceM=
+
+Name: assets/bin/Data/1ea2ccfcbd09d4bab993293b98e2aafd
+SHA1-Digest: gsQpzNhRRv4+wCk+uAsiufj5kvQ=
+
+Name: assets/Android/gui/atlas_login.ab
+SHA1-Digest: TE/9CWOHhYZByz9ElJgdxBorPlI=
+
+Name: assets/Android/gui/textures/64000.ab
+SHA1-Digest: n07SoX+nDqxOYUPjmudxqaArbN8=
+
+Name: assets/developer_config.properties
+SHA1-Digest: gf/2KObIKDPCFXlH/mWGUcaqrEc=
+
+Name: assets/Android/lua/lua.unity3d
+SHA1-Digest: dyQq9Y4s3agyoXW0Pisz23AlfvA=
+
+Name: lib/x86/libmain.so
+SHA1-Digest: ztMmPLmcXAYkpHmt/URxj1B84EM=
+
+Name: assets/Android/gui/textures/9_10003.ab
+SHA1-Digest: FnA3H/UTD5TovkWLDK+u93+LkOo=
+
+Name: assets/Android/gui/textures/ui_victory_panel.ab
+SHA1-Digest: p8BJz65u/zwEjzUozm7TlWkMc8M=
+
+Name: assets/Android/lua/lua_model_banghui.unity3d
+SHA1-Digest: wmJvu6TNJejoyzFGJ1aflQnFxPU=
+
+Name: assets/Android/gui/textures/5_10005.ab
+SHA1-Digest: wgVcg2hNsFzxAkAMf06vFYj3tGU=
+
+Name: assets/Android/models/21000.ab
+SHA1-Digest: T7M5As0Gwwt7iO+YPSpQ2yl8A/g=
+
+Name: assets/bin/Data/7c0a1aa668787ad42a48d1a535825520
+SHA1-Digest: huN4l98uQxTkvqmTYOs1vJ/Pspg=
+
+Name: assets/Android/gui/textures/62003.ab
+SHA1-Digest: BKU5unvPbgMuwf3prLrkt7utz+I=
+
+Name: assets/Android/models/71004.ab
+SHA1-Digest: MG2pTJPpQhAyWUV1ccZ5hxnRNvw=
+
+Name: assets/Android/sound/2003.ab
+SHA1-Digest: N7kTdWRVeLpvZ0Hjm4FcTTd3prA=
+
+Name: assets/Android/models/100002.ab
+SHA1-Digest: upryHYiGaEkQYEBZpGz9MBNZyjo=
+
+Name: assets/Android/models/30002.ab
+SHA1-Digest: yLfFmatxWeJquaFZJmhc9+0zhoM=
+
+Name: assets/bin/Data/Managed/Boo.Lang.dll
+SHA1-Digest: 5LyLhWURQhYaHi16Ax9M4/Lgn+s=
+
+Name: assets/Android/gui/textures/39_10002.ab
+SHA1-Digest: CjR3qR7+/MNckNQJFP10KjQ897M=
+
+Name: assets/Android/gui/textures/33_11000.ab
+SHA1-Digest: YtxF8AXNP+DOU3r2/1LnBmA3gSE=
+
+Name: assets/Android/lua/lua_map_client.unity3d
+SHA1-Digest: ztDgEfns0m/Pr3es2nbFkvK1Y5M=
+
+Name: assets/Android/gui/textures/62007.ab
+SHA1-Digest: tqVXqDLagwDy3BPOgj2mCXB8z98=
+
+Name: assets/Android/gui/textures/ui_fulidt_e_1.ab
+SHA1-Digest: 3f5af+w5/kTl8Z2N7g9RuwqcQ1c=
+
+Name: assets/Android/gui/textures/ui_sevenday_panel.ab
+SHA1-Digest: XJkp6q4yHgAwcQ8izoYxn74TouU=
+
+Name: assets/Android/gui/textures/ui_victory_mask.ab
+SHA1-Digest: OuBNiJySQh70GdkZMrW0kkihNNY=
+
+Name: assets/Android/gui/textures/minimap20000.ab
+SHA1-Digest: w1Jhi6En+rbSx4OcftmvV/AL8R4=
+
+Name: assets/bin/Data/unity default resources
+SHA1-Digest: Zl3x7aMHlIawx259zUZ1jt7e7hc=
+
+Name: assets/Android/lua/lua_controller_duanzao.unity3d
+SHA1-Digest: tQ7PfTzZIhW8QttCr7RvHMxisy8=
+
+Name: assets/Android/gui/textures/ui_xiandaosl_tox2.ab
+SHA1-Digest: bbf15Uiz+SoRqcylMjOqveGM6Os=
+
+Name: assets/Android/gui/textures/16_20004.ab
+SHA1-Digest: 2I1RWb4hCAneZY8SZXkPVhbrNIc=
+
+Name: assets/Android/lua/protocol/pbc/all/all.pb
+SHA1-Digest: QXYT7QcrCSDXAmDKUX5QwORCwwU=
+
+Name: assets/Android/models/72001.ab
+SHA1-Digest: 0yU3hSUi7Ug8T2fAfVlchjLYtfw=
+
+Name: res/drawable-xxxhdpi-v4/app_icon.png
+SHA1-Digest: ZiDyqmHWhpRKa6JjIJsC65jn4jI=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.lib.apk
+SHA1-Digest: oxqE5+FZrr/KWecYFuINTtkBaAk=
+
+Name: assets/Android/gui/textures/ui_pic_welcome.ab
+SHA1-Digest: KeNf9C07qV2xnYQRhqgJ8MR8eTw=
+
+Name: assets/Android/gui/textures/62005.ab
+SHA1-Digest: XPx6Rh/qRgOTD/XWmRHV8o7ccqQ=
+
+Name: assets/Android/gui/textures/ui_jjc_panel.ab
+SHA1-Digest: Ww6HNIMwBqEzKwX5R9CRvKhCpVs=
+
+Name: assets/Android/gui/textures/4_10005.ab
+SHA1-Digest: g7CR8O8rlpAOHZ4PU49dWafZhYI=
+
+Name: assets/Android/lua/lua_3rd_uisystem.unity3d
+SHA1-Digest: hc5EijaE5ZLD2YXIZZAMYrxjVXA=
+
+Name: assets/bin/Data/dcfbf782c33cf364183bd9e48c4c18f1
+SHA1-Digest: dyFcUX5zlcW4yhr6EunB2WDmy1Y=
+
+Name: assets/Android/lua/lua_controller_map.unity3d
+SHA1-Digest: am+aPHwqeRSK0/L0mKO9zi572DU=
+
+Name: assets/Android/android.ab
+SHA1-Digest: ACKVd8HtZ3290j5FQAEuKzRP7pU=
+
+Name: assets/Android/gui/textures/64001.ab
+SHA1-Digest: EOGihotiDer/CLJfuDrPWhnvuzE=
+
+Name: assets/Android/models/71010.ab
+SHA1-Digest: 0zVNSVzyQbtgkp4tjGUk9BcVheU=
+
+Name: assets/Android/sound/1009.ab
+SHA1-Digest: fI9UWV/ONMm+vMwny1qSun0F1fU=
+
+Name: assets/Android/version.txt
+SHA1-Digest: bs4nzFUYIBcL09J9PVTUHtLYi6k=
+
+Name: assets/Android/gui/textures/38_10002.ab
+SHA1-Digest: qhggVZkc8Rhn4o4863MqDTjq5SM=
+
+Name: assets/Android/lua/lua_xlsdata.unity3d
+SHA1-Digest: H7ImUljEUvGYgzvOobssz8IEtUM=
+
+Name: assets/Android/gui/gui_login.ab
+SHA1-Digest: FsZhx/WirzDOVEFE4DY1F468sW8=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_08.ab
+SHA1-Digest: ZisEWhMRsceVXZbCeqUl1q7aYak=
+
+Name: assets/bin/Data/cbad226884fb90040aa6b42037166079
+SHA1-Digest: FlgJvN+Wchmevcbtz9gNoO9shJ4=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_10.ab
+SHA1-Digest: oiZxTptSyY6dqk76O+SJsvTs2MU=
+
+Name: assets/Android/models/61000.ab
+SHA1-Digest: AaWeQtSa3ExVVcXlSkOS6zDUmbQ=
+
+Name: assets/bin/Data/e62aa7035ea66c94b90b2d8774d02cca
+SHA1-Digest: bbkrtdmu9GlBCewME+T+odc7Yo8=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_softlink.so
+SHA1-Digest: zZdZaIUc0GBeQSQMGwGZ9cjB6eM=
+
+Name: assets/Android/gui/textures/ui_duiwu_jmg_2.ab
+SHA1-Digest: MCWLp5LPzC8yGjKzeG9iSHM5Ge8=
+
+Name: assets/Android/gui/textures/34_11000.ab
+SHA1-Digest: mSOQYzB+GkRZG3IGwiZ+G8cGUCA=
+
+Name: assets/Android/models/100101.ab
+SHA1-Digest: 3VtQrB2Wp5nbMROYkyExhVYeMS8=
+
+Name: assets/ucgamesdk/lib/ucsdk.apk
+SHA1-Digest: IEUqe24ihk8FfV9cJlmQ/MR+JRA=
+
+Name: assets/bin/Data/74e9e885a29dfb742be4cf57b7e27e46
+SHA1-Digest: eKE8I5XRZBiM+Zx+nkoIsOCalrE=
+
+Name: assets/Android/models/34000.ab
+SHA1-Digest: t569yMk/tD2z4KOkl9B7AzW74nM=
+
+Name: assets/Android/models/35103.ab
+SHA1-Digest: a+NtS+LR8+Gkq3ya0ZZUPnIvX8c=
+
+Name: assets/Android/lua/lua_view_setting.unity3d
+SHA1-Digest: ozNi6Ozi25vDIs84+4xMDzC9ivs=
+
+Name: assets/Android/lua/lua_misc.unity3d
+SHA1-Digest: Ev9owGt861FfjUUPuaSkyqitouI=
+
+Name: assets/Android/models/70008.ab
+SHA1-Digest: 14yxhmqCPzWo5y2NEIVnuNE0iqo=
+
+Name: assets/Android/gui/textures/ui_word_husongchenggong.ab
+SHA1-Digest: lIFq5vN3+dw7HcawZCygpkwUKqg=
+
+Name: assets/Android/gui/textures/64107.ab
+SHA1-Digest: Y6SFaTEsNYgF9L1aThy0rarQ+jo=
+
+Name: assets/Android/gui/textures/62004.ab
+SHA1-Digest: 6Mads/N7W8v/At8xp4T6r3o6Sq8=
+
+Name: assets/Android/gui/textures/23_10001.ab
+SHA1-Digest: 5W7wurVpkSqiZUp27Vd2v9XMKxA=
+
+Name: assets/ucgamesdk/modules/version.ini
+SHA1-Digest: N2ZQmMnO1PjfEEZQoQKtA07iMG8=
+
+Name: assets/ucgamesdk/lib/x86_64/lib_ucsdk_patch.so
+SHA1-Digest: LfcHULY/WRFFXNzdcjU6RdU+NAY=
+
+Name: assets/Android/gui/textures/62006.ab
+SHA1-Digest: jBWbOqq8g/FLCe3as6zKR3mfZhk=
+
+Name: assets/Android/gui/textures/ui_duiwu_jm_t6.ab
+SHA1-Digest: z6H1LQO67CqXPpk1JcdSdabLtHo=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.floater.apk
+SHA1-Digest: Sh+a7NZkbW6qcnyVUSetinj867w=
+
+Name: assets/bin/Data/58fcab1a7120f0e4189fff0d14964a39
+SHA1-Digest: 1rletiz03Kc42Yd8D2zD+TRWd0E=
+
+Name: assets/Android/lua/lua_view_banghui.unity3d
+SHA1-Digest: I+h37uMllFJgzxVaeiyY3moRnq4=
+
+Name: assets/Android/lua/lua_view_neigong.unity3d
+SHA1-Digest: U2A66ibW+smaAg3clloY1emixIg=
+
+Name: assets/Android/gui/textures/minimap11000.ab
+SHA1-Digest: 9YngE+LcS6GzT6YFdw3UwXj1h78=
+
+Name: assets/Android/gui/textures/62001.ab
+SHA1-Digest: 2hsd9Q4H/0dqMAldhXDQGe18Vag=
+
+Name: assets/bin/Data/Managed/Assembly-UnityScript.dll
+SHA1-Digest: dwZCMwmDPMEjdvIdg4hycmMXS4k=
+
+Name: assets/Android/gui/textures/ui_zjfb_pic_04.ab
+SHA1-Digest: KeF0JuCcs1KmHNYWsyESIyphf3E=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: ncMbUFG5NdvyDwshVqi1Ba+PGI4=
+
+Name: assets/Android/effect/other_effect.ab
+SHA1-Digest: tsnc1moSxI/E1ankUOFrLM2sMUg=
+
+Name: assets/Android/gui/textures/64003.ab
+SHA1-Digest: GWufv+Isuc7Wl5fzkkrr4liJYBI=
+
+Name: assets/Android/lua/lua_view_fuben.unity3d
+SHA1-Digest: +rUAEx6dYqQR/zap3SUorMjHuds=
+
+Name: assets/Android/gui/textures/64004.ab
+SHA1-Digest: YNtJrYmCKmXgVvf3YkPtK+bbKaI=
+
+Name: assets/Android/effect/renwuzhiliao.ab
+SHA1-Digest: 3YGWGC29qkQFe6enoEQFzfl5kds=
+
+Name: assets/bin/Data/f4f0faf73e6bf89419cf29b611f29ade
+SHA1-Digest: Ixy/FAwddVYQsN9s7FvGyW800Ok=
+
+Name: assets/Android/models/35111.ab
+SHA1-Digest: Ue58JHXEtB7RFXgDDqzjIlGmEyQ=
+
+Name: assets/bin/Data/Managed/Compress.Info.dll
+SHA1-Digest: 0zRB8B7YgQSL5CxyymgnyELZ44k=
+
+Name: assets/Android/files.txt
+SHA1-Digest: cHpESiguOKfsinbM7V099U69g1s=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_softlink.so
+SHA1-Digest: vA4g55kXeJ+CExQW0kRt2/v2Mq4=
+
+Name: assets/Android/gui/textures/ui_word_husongchaoshi.ab
+SHA1-Digest: bnahMsPA4nKsqvOpVBnxRtDnV3s=
+
+Name: assets/Android/sound/2004.ab
+SHA1-Digest: AK8Z5QRU6KjLHvt4FH/uwSGCVDI=
+
+Name: res/drawable-ldpi-v4/ic_launcher.png
+SHA1-Digest: e78DOa3T1Mhyi4vrG5opDwQYh6Q=
+
+Name: assets/Android/gui/textures/ui_panel_rewarded.ab
+SHA1-Digest: jm9qU9954RuF2HFl+VHeh7A4teo=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.account.apk
+SHA1-Digest: sPolKQnFqZPH9rqwV8NUQaHHAeo=
+
+Name: assets/Android/lua/lua_controller_ranking.unity3d
+SHA1-Digest: HHJz6pKMG0R/ANRzkq1Lok4KZ7U=
+
+Name: assets/Android/lua/protocol/pbc/aoi/aoi.pb
+SHA1-Digest: TIWM9aQNQC45NgUNWynZNL43ciI=
+
+Name: assets/Android/lua/lua_protocol.unity3d
+SHA1-Digest: ZclOBbcY8W+2JQaHXzQ8JM6hGHc=
+
+Name: assets/Android/gui/textures/64006.ab
+SHA1-Digest: E0QLzkv6t5vil81SPU5JvMIkFPA=
+
+Name: assets/bin/Data/8292336df09dd72498df344a1473b2b5
+SHA1-Digest: 2/50QpY5YDxLVScV/CMt2rzAjLc=
+
+Name: assets/Android/lua/lua_protocol_handler.unity3d
+SHA1-Digest: lULv8NTUBFzjgenL/Mt6kicLyos=
+
+Name: assets/Android/gui/textures/ui_fulidt_a_1.ab
+SHA1-Digest: r9XMK0iDgjKlpPJ6U/sW99zZC/o=
+
+Name: assets/bin/Data/Managed/mscorlib.dll
+SHA1-Digest: veez9TlkMsK/zgQYdOnKo29LsYg=
+
+Name: assets/ucgamesdk/lib/armeabi-v7a/lib_ucsdk_xcrypt.so
+SHA1-Digest: VlH7xSRohcoewDvIdbv4NA/qoVw=
+
+Name: assets/bin/Data/d249a195df84a8e448b95867fdc844df
+SHA1-Digest: 5EhqCp6bG+WtNP+gSy8bGi8DnnI=
+
+Name: assets/Android/gui/textures/ui_shenqi_zhuling_background.ab
+SHA1-Digest: NtCEo5zxNMjKHxYtt4YXrDaOYRw=
+
+Name: assets/Android/gui/textures/64002.ab
+SHA1-Digest: jy62uw0Ehst3twxwJCFDlOj1QrY=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: 2L6t8lV5TbBdWa18cnoc+JIQgSQ=
+
+Name: assets/Android/models/35005.ab
+SHA1-Digest: 2WNJCiYywaQ1OtQtFxEutwl9wGg=
+
+Name: assets/Android/models/71007.ab
+SHA1-Digest: DxCHm7vUPT+A9OU5hks/HgrHhUQ=
+
+Name: assets/bin/Data/27275fc7df2ec0346ba12831e6a01345
+SHA1-Digest: rQQNp9pxFTIiWGaHT5LnYKdxSps=
+
+Name: assets/Android/gui/textures/ui_fulidt_d_1.ab
+SHA1-Digest: VVmb64XONTLqhqoCzLbsmtyLnJA=
+
+Name: assets/Android/gui/textures/uir_jjc_use_panel.ab
+SHA1-Digest: 70W0o8APt+SvXAOaRR1paljC/ws=
+
+Name: assets/Android/models/35006.ab
+SHA1-Digest: fafC5LsysBvERRdQykXQGyDgkPw=
+
+Name: assets/bin/Data/f9b065d5bb5df04479c8756620fc9b55
+SHA1-Digest: JFsSKJGHpIlORN97HnONlvHrgKg=
+
+Name: assets/Android/gui/textures/ui_xiandaosl_zhudt.ab
+SHA1-Digest: dWPRFo7ESob3m1piakhOaCJwETY=
+
+Name: assets/Android/gui/textures/ui_pic_baoshi.ab
+SHA1-Digest: bToepLNYn1drGmhlFB5yXvX+wmY=
+
+Name: assets/Android/gui/textures/64106.ab
+SHA1-Digest: ep/znpkdZzp+qWgcy0ZP9lQg6bI=
+
+Name: assets/bin/Data/741e3044a80eea245a2efc583fd31f8e
+SHA1-Digest: Bp1xgz/0j6SNGEFpQwz1XNx/GbE=
+
+Name: assets/Android/sound/1006.ab
+SHA1-Digest: K0TDcdjnwf47VskqbjCrQ1KLO1U=
+
+Name: assets/Android/gui/textures/ui_bangpai_fuli_2.ab
+SHA1-Digest: 7Z4dQPayjcHwtMEgNTdqfn9155g=
+
+Name: assets/Android/models/70001.ab
+SHA1-Digest: B3IvZI7Gh+jNKLa2KFN+LuGnk/0=
+
+Name: assets/Android/lua/lua_setting_user.unity3d
+SHA1-Digest: e8cl3zCGmovkqHJqoe88lyWVlpE=
+
+Name: assets/bin/Data/Managed/Pathfinding.JsonFx.dll
+SHA1-Digest: nX/2gqT4qVUvgmpmY+vtiWJUUfI=
+
+Name: assets/ucgamesdk/lib/x86_64/list
+SHA1-Digest: xAKhMPZNlFJnaiJb+qa8gMt8ie4=
+
+Name: assets/bin/Data/2a3c15c6c01b43b4e9474398787219db
+SHA1-Digest: 3AFj7ria2+9Jq1qGDf/cA9UuWMc=
+
+Name: assets/Android/models/35110.ab
+SHA1-Digest: TjR9xO+0FCi742oNKb3WUQqNntI=
+
+Name: assets/Android/lua/lua_protobuf.unity3d
+SHA1-Digest: KHpdavHaSD8cfNiIPQl4DOb7j10=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.core.apk
+SHA1-Digest: CKjQS3oqwQID5LsdeWiuWJlPUXU=
+
+Name: assets/Android/gui/textures/ui_duiwu_jmg_3.ab
+SHA1-Digest: w+NM+kxyKLEOY92CuVOPolD+15c=
+
+Name: res/drawable-xhdpi-v4/ic_action_search.png
+SHA1-Digest: ji1kzsZOQfM/0DZ0VYuzXWrj0dU=
+
+Name: assets/bin/Data/Managed/System.Core.dll
+SHA1-Digest: UJBMFfSzsmLUvIPEBP4dXaCi9NU=
+
+Name: assets/Android/gui/textures/ui_jianghusl_db2.ab
+SHA1-Digest: d16lkAbsuIKsjyxXm3KxZB4ehHM=
+
+Name: assets/Android/gui/textures/ui_fulidt_c_1.ab
+SHA1-Digest: EMb5apPP1xqqJxmkUDmp1tpQ4gI=
+
+Name: assets/Android/lua/lua_map_client_char.unity3d
+SHA1-Digest: p4/lJ0FasPoBUAlBi+KnRqnGQTw=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_05.ab
+SHA1-Digest: da2wsPDNQZEJsYZJAfsoUXUibQg=
+
+Name: assets/Android/gui/textures/2_10005.ab
+SHA1-Digest: j70AZ0xHgNxzFdsabY2Nk9FYCc4=
+
+Name: assets/Android/lua/lua_language.unity3d
+SHA1-Digest: 4Z2MHS+T2fR0rS/K6hqLTNmJeCE=
+
+Name: assets/Android/gui/textures/ui_pic_duanzao_jinjie.ab
+SHA1-Digest: S1uVIYDYknpxQkoWTFfU6jcffb0=
+
+Name: assets/ucgamesdk/config/sdk_info.txt
+SHA1-Digest: zR/FvGN0lYL6DXAStb3cx9up9Ps=
+
+Name: assets/Android/models/13002.ab
+SHA1-Digest: L0tzhnzTqJ+LQiJeeYrdAkX/KaI=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_patch.so
+SHA1-Digest: unK5QF4lB6OpEDJV63dl9/UFO+s=
+
+Name: assets/bin/Data/eec9c90e5acd4d74d9e021119fc70cf8
+SHA1-Digest: /0lFXULjU9kOxCfhjnpLZIXvsOo=
+
+Name: assets/bin/Data/Managed/System.dll
+SHA1-Digest: NnG0iwze9fYz8Nr5gSo8GAIJSjM=
+
+Name: assets/Android/gui/textures/ui_zjfb_pic_02.ab
+SHA1-Digest: R8jUy7NrItCZXvP7dqw3wBsbkds=
+
+Name: assets/bin/Data/65ca32170bb371f459991a5d7696a9ba
+SHA1-Digest: aZvtrdvgA3x7sKBk/E8MhhLP1IA=
+
+Name: assets/Android/lua/lua_map_ai.unity3d
+SHA1-Digest: K5NNiFI4vbBhYk8Ha94PJl8vJGg=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_09.ab
+SHA1-Digest: sQ4cDt6zDOKibOFlzQ+3vvXQtHs=
+
+Name: assets/Android/lua/lua_setting_map.unity3d
+SHA1-Digest: jzO2oFowOfHoZ+yJotoaMJeL3D4=
+
+Name: assets/Android/gui/textures/62002.ab
+SHA1-Digest: rQpQUSJgUJjUZvc5DhAJ8ECdx5s=
+
+Name: assets/Android/gui/textures/minimap10004.ab
+SHA1-Digest: FqPgBa76l4y7ug0DD7ywslDT2mM=
+
+Name: assets/Android/gui/textures/18_20004.ab
+SHA1-Digest: Yl0xzvEdkIeJY4YnD0ewe2adlHc=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.log.apk
+SHA1-Digest: +qvzsdaJTNMsaJ8u5n4uerypVdI=
+
+Name: assets/bin/Data/626fa4e8829ddb249bb85599c329c474
+SHA1-Digest: 9TrFNZbHoexFWv85mSVsG5WwO9E=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: dPza8Rscd1ibZF/pO3RmewgEcfc=
+
+Name: assets/Android/lua/lua_setting_npc_auto_createnpc.unity3d
+SHA1-Digest: hpRTzdKoh+kzJrYznAGxgudz22k=
+
+Name: assets/Android/gui/textures/ui_spec_panel.ab
+SHA1-Digest: +ORxsq7Aslym02sW6NyBAz7KEck=
+
+Name: assets/Android/models/70007.ab
+SHA1-Digest: gXww19CqpWYNdeDq1Rutg0ZWfBk=
+
+Name: assets/Android/models/71008.ab
+SHA1-Digest: bHLXr6ITeqkPvcfPQOqQGYyPjQI=
+
+Name: assets/Android/gui/textures/62009.ab
+SHA1-Digest: JMDbp9uj5yG2cY/8kRR15PwLb/8=
+
+Name: assets/Android/gui/textures/ui_duijue_panel.ab
+SHA1-Digest: xCFqBbNozvia9R4J+EalJj4d1wE=
+
+Name: assets/bin/Data/sharedassets1.assets
+SHA1-Digest: 85iFne7zGyqsvsKN61JEz5Rnvmo=
+
+Name: assets/Android/gui/textures/ui_zjm_yulan01.ab
+SHA1-Digest: FNM7wsts1sv7Bkbtg5YUDfpO+Ow=
+
+Name: assets/Android/lua/lua_controller_common.unity3d
+SHA1-Digest: 7RmIx9gcUpSzoBJJyy22MTQ0JQg=
+
+Name: res/drawable-hdpi-v4/ic_action_search.png
+SHA1-Digest: N0M6YNQIQIIF7xqymd3Hqwm+9LY=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_softlink.so
+SHA1-Digest: ER4HVsSrx/vtEzCPeCo/2NuitA8=
+
+Name: assets/Android/gui/textures/ui_zjm_yulan02.ab
+SHA1-Digest: j2Bt8ekag60RwiV0AnXmepmCIXU=
+
+Name: assets/Android/lua/lua_buff.unity3d
+SHA1-Digest: R35lXv8wagr0y1sFCqRxSRJhWNg=
+
+Name: assets/Android/gui/textures/ui_pic_danrenfuben.ab
+SHA1-Digest: ku96a5GEPYYzhMkodeGS8O4UcZA=
+
+Name: assets/Android/models/71009.ab
+SHA1-Digest: QwoBAqqN4aifWWFYFvuo0uda1r0=
+
+Name: assets/Android/lua/lua_view_login.unity3d
+SHA1-Digest: dqJfOApdvetxvLcBQ+PVkxIlcZs=
+
+Name: assets/game-assets.txt
+SHA1-Digest: uJ4QE9imH7cCE69qrQfwo7YSaDw=
+
+Name: assets/Android/gui/textures/31_11000.ab
+SHA1-Digest: B+dtYZp8AqFFjRx7sYDH8uXo78o=
+
+Name: assets/bin/Data/b127b8f39c85c834baa0f360ee3beec3
+SHA1-Digest: TBLXS3SSI+0Fcoo31DABPRW3504=
+
+Name: assets/Android/lua/lua_controller_maintip.unity3d
+SHA1-Digest: uY/JvG2tCaY7Wg25qt9SU88aYto=
+
+Name: assets/Android/gui/textures/ui_drfbtip_zdts01.ab
+SHA1-Digest: sG2GfPkgRhwEpVZ4XXFJaypstmU=
+
+Name: assets/Android/effect/ui.ab
+SHA1-Digest: 3UblKMIy23ntMfi/KW4VuEdl+2s=
+
+Name: assets/Android/gui/textures/41_10002.ab
+SHA1-Digest: cSz2IDgFy+7psrfAjYB+S1SLdJ8=
+
+Name: assets/Android/models/71005.ab
+SHA1-Digest: NkN6AMqR1DRO2W9wnTpCsWIBeiU=
+
+Name: assets/bin/Data/3eaaee164ee0fed4d9a0bbe8434805a6
+SHA1-Digest: OXwplHOk25KMtCqM61j7iGfWTfY=
+
+Name: assets/Android/lua/lua_controller_multicopy.unity3d
+SHA1-Digest: FlZsH2Vvx8+EuZ/6pjG5MBoyOfw=
+
+Name: assets/Android/lua/lua_lpeg.unity3d
+SHA1-Digest: TUpE/o/X3OACseS/407ZIcvJn68=
+
+Name: assets/bin/Data/e8843e4eed1b219459991b718133cde7
+SHA1-Digest: r7YRrtxmHaW6sVHn2mfabQVdiws=
+
+Name: res/drawable-ldpi-v4/app_icon.png
+SHA1-Digest: Vmp+D5/Mf4Cgb4e0juGM+xV4Rm8=
+
+Name: assets/Android/models/35000.ab
+SHA1-Digest: KRGLWHkpfcrnzQ564ZNpx8kKlAY=
+
+Name: res/drawable/app_icon.png
+SHA1-Digest: 1xuHMMjMFf0rDol9nBLvFmegzm8=
+
+Name: assets/bin/Data/5e82b392f79aa394fb1a579743600d5f
+SHA1-Digest: L8WzLXC2hiNvr7F3Z81tyKz8+oQ=
+
+Name: assets/bin/Data/542360a79b280f14bad21fa108b27344
+SHA1-Digest: u3gmUIYFzHQEwXbq0BkEf5dE+n4=
+
+Name: assets/bin/Data/globalgamemanagers.assets.split1
+SHA1-Digest: Fe4ID1oXx0IiPhLOdwwMSxYk/9c=
+
+Name: assets/bin/Data/a66f4043074a16448aa531f9cb6541ad
+SHA1-Digest: A42ItFzQZSSBHKRgaAsPSCvJkC4=
+
+Name: assets/bin/Data/be52c94038873d045a4ad6832cfb9a7d
+SHA1-Digest: pjPqbuJJ4piEBKttMMSIwj/P9Bw=
+
+Name: assets/Android/models/72000.ab
+SHA1-Digest: 6j5uqaNuMOjdnOLGHmys8VpaOT0=
+
+Name: assets/res/ui/common/logo-1.png
+SHA1-Digest: d4fBCaY0dfIjov16BkMeP3acFw4=
+
+Name: assets/Android/models/35002.ab
+SHA1-Digest: oYoLnEnPIglDjkuG6dLAPuRF6yY=
+
+Name: assets/Android/lua/lua_map_module_npc.unity3d
+SHA1-Digest: RF0FRcExyXXMCiPkdM/m4iWijX8=
+
+Name: assets/Android/gui/textures/minimap20004.ab
+SHA1-Digest: p860gWqt7CgVixsUmvMKhd4fg+k=
+
+Name: lib/armeabi-v7a/libBugly.so
+SHA1-Digest: 1K6hpsdONtixRmR5y1fGTdDk0CA=
+
+Name: assets/Android/gui/textures/minimap30002.ab
+SHA1-Digest: W1U0mPHAot9ndhMEfMGXs1nQ0Jo=
+
+Name: assets/Android/gui/textures/24_10001.ab
+SHA1-Digest: f82a1ocrVnOZsZdDNmsZbn/27RE=
+
+Name: assets/plugin_config.xml
+SHA1-Digest: Ck/pjLS7POIzui+A3tmog2l59Sk=
+
+Name: assets/Android/models/13000.ab
+SHA1-Digest: Ea625fCmgtA+xS4sfqmsatS7mj4=
+
+Name: assets/Android/lua/protocol/handlers.txt
+SHA1-Digest: mGD5nPmo9qyxgmySgtLZBHlK9RQ=
+
+Name: assets/Android/lua/lua_controller.unity3d
+SHA1-Digest: AMnMB3fask+W35pLqkA4smiDVoM=
+
+Name: assets/bin/Data/globalgamemanagers.assets.split0
+SHA1-Digest: UhwfRGhg1BoH+65aTtuVqiQj6bU=
+
+Name: assets/Android/gui/textures/20_10001.ab
+SHA1-Digest: iCaQgAuQ6Nke3OsuM8LitB5yHT0=
+
+Name: assets/Android/lua/lua_map_module_fight.unity3d
+SHA1-Digest: Y6DCNw1b2qFf3C1edR3EcFszg4c=
+
+Name: assets/Android/effect/public_effect.ab
+SHA1-Digest: uIXbf+8+iav6tSuqgHgWptw9mEs=
+
+Name: assets/bin/Data/c880492b5a6ba644881d9267cf51885c
+SHA1-Digest: lhzFlWUBJ7qCvr1gXSE8GBkoOEg=
+
+Name: assets/bin/Data/level4
+SHA1-Digest: +pibpFQTkz7S+Btej/cZ4hs1NxY=
+
+Name: assets/Android/gui/textures/8_10003.ab
+SHA1-Digest: FA5FSXcoFl0pEqFRedclfoDlMts=
+
+Name: assets/bin/Data/level3
+SHA1-Digest: L/TT2NqNKuTjBSF6irccVSi6+w8=
+
+Name: assets/bin/Data/9aa2069d3d190154d80270162ed2f53a
+SHA1-Digest: sQhp2HzkdjfzTDXlGOgl2NfaoTA=
+
+Name: assets/bin/Data/1682092270f88d04bb434756a984ea87
+SHA1-Digest: VwnCajqpYLe+mAw8Xi05A5QlMxk=
+
+Name: assets/Android/gui/textures/64102.ab
+SHA1-Digest: 7dp8QVCjDdLq7XCye1MCMyK/b2s=
+
+Name: assets/Android/sound/1007.ab
+SHA1-Digest: UA9nAyU2tfNblGX2OLC0mhvwQOQ=
+
+Name: assets/Android/lua/lua_cjson.unity3d
+SHA1-Digest: SSPoGhDlUBEOk0mISdSkUef5RRw=
+
+Name: assets/Android/gui/textures/64007.ab
+SHA1-Digest: KJeLbc5Z8ayFb77uDwGoeciPH9Q=
+
+Name: assets/Android/gui/textures/ui_zljfb_pic_02.ab
+SHA1-Digest: ZcgTF+6CFty5edGdIs1I+JkQugI=
+
+Name: assets/Android/models/60002.ab
+SHA1-Digest: lMUyNPCpIW2s0D9elQ4/M4ex52o=
+
+Name: assets/bin/Data/37590480333382341b5007dec2a032c6
+SHA1-Digest: C4EbsSE2CRKZq10uu079s5WSems=
+
+Name: assets/Android/gui/textures/ui_fulidt_e_2.ab
+SHA1-Digest: wXKzQR7g4EWmpT08/IPwZ1TSWQk=
+
+Name: assets/ucgamesdk/lib/x86/lib_ucsdk_patch.so
+SHA1-Digest: x3SJi+jYdIqeGl4QHRnYGeP8kzM=
+
+Name: assets/Android/models/31000.ab
+SHA1-Digest: BBi0JoGR1mfoyu+TNT7VjTG+JXQ=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_patch.so
+SHA1-Digest: YMZ2RJMDkYIjABUXr3GjdQxWzD0=
+
+Name: assets/Android/gui/textures/ui_panel_shop.ab
+SHA1-Digest: h0t3GUu3y+yuOJLYV/F22s93Kac=
+
+Name: assets/Android/lua/lua_view.unity3d
+SHA1-Digest: Zr+186n0d3H3v7yB5BDCVBnbRP4=
+
+Name: assets/ucgamesdk/lib/armeabi/lib_ucsdk_xcrypt.so
+SHA1-Digest: WDTFTY221Fd+AW91vcLdPwDR/8A=
+
+Name: assets/Android/gui/textures/32_11000.ab
+SHA1-Digest: Qxqp2dbxw0+l0tv+y3DshwHD74c=
+
+Name: resources.arsc
+SHA1-Digest: aX793YfQ82NksjhVa7JYhLaHzfM=
+
+Name: assets/Android/models/35003.ab
+SHA1-Digest: mq+U+nsliog/aA2GVMd8eeT8148=
+
+Name: assets/Android/gui/textures/ui_rank_show_model.ab
+SHA1-Digest: WgvMb35stMqE1UwAJENyuIU4GuE=
+
+Name: assets/ucgamesdk/config/route.json
+SHA1-Digest: 3QqdHrxVrZMtt/sAo1MHy/6uy2I=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/lib_ucsdk_xcrypt.so
+SHA1-Digest: UNwF+ClYRYbD5H/amDvUccEU6HQ=
+
+Name: assets/ucgamesdk/lib/x86/list
+SHA1-Digest: Px1HjwioIVAEpe3hQdbn/ahwZ08=
+
+Name: assets/ucgamesdk/modules/cn.uc.gamesdk.init.apk
+SHA1-Digest: cn5BSNUSIactgL3Q7b0TJNTO3P4=
+
+Name: assets/bin/Data/5fc28ae6ff5f3d64691933c0d839f722
+SHA1-Digest: VKT6gWRL3BgXHGCVdkxMvkFbbs8=
+
+Name: assets/Android/models/35102.ab
+SHA1-Digest: /VpN1KUkyyjxW0TOwkQIZTQqeu4=
+
+Name: assets/Android/models/70006.ab
+SHA1-Digest: b+OIGBMDelY7ux1uRFcwMpAYofY=
+
+Name: assets/Android/gui/textures/ui_zljfb_pic_01.ab
+SHA1-Digest: K8KsdeeV1YJnDkXPAE69trVmiqo=
+
+Name: assets/Android/lua/lua_model.unity3d
+SHA1-Digest: iPzJFoDi1jrTnAgG/gTFWiqhiAk=
+
+Name: assets/Android/gui/textures/42_10002.ab
+SHA1-Digest: 4A3icRj0doJTXay7CXFMdC4TqSg=
+
+Name: assets/Android/models/100102.ab
+SHA1-Digest: gq9EybdKZtjGtMdzh5R8dSKLNKw=
+
+Name: assets/Android/gui/textures/ui_zljfb_pic_03.ab
+SHA1-Digest: yp743+ABQxxtX4oPm8S/vpaIN1U=
+
+Name: assets/Android/lua/lua_3rd_pbc.unity3d
+SHA1-Digest: e5dn0x6muvQLMWVnP4X1c7SXO7k=
+
+Name: assets/Android/gui/textures/62008.ab
+SHA1-Digest: vEp5dU6zX6v1qiAcLV/vXMRIQGM=
+
+Name: assets/Android/models/35109.ab
+SHA1-Digest: Pg66d2zIoCWsxSWEdiXK3Hg71WE=
+
+Name: assets/ucgamesdk/lib/arm64-v8a/list
+SHA1-Digest: 8dB9m4oXe33/OQzj3EgAI7idT2Y=
+
+Name: assets/Android/lua/lua_base.unity3d
+SHA1-Digest: SVAUwfNP1rdjtduNdNQ1sHkOXI4=
+
+Name: assets/ucgamesdk/lib/mips/lib_ucsdk_xcrypt.so
+SHA1-Digest: f7yyb7K9TCwfYV/xaCQ77n6GJug=
+
+Name: assets/Android/gui/textures/ui_shenqi_mid_background.ab
+SHA1-Digest: abs/TAojVaB8FVm5a/ToCSSd330=
+
+Name: assets/Android/models/70009.ab
+SHA1-Digest: 6wU01sQZjBwC0236mQpD5f9iHOY=
+
+Name: assets/Android/gui/gui_main.ab
+SHA1-Digest: h/wc1Mg2gVxcpD7qhnGWQKSBKKE=
+
+Name: assets/bin/Data/95ec3205b67132140be19dd882e0b901
+SHA1-Digest: 2hnKdr0FUNFJw1e3jROueXU3AFY=
+
+Name: assets/bin/Data/7d7edaf98b78bd84297bb888bf41ed02
+SHA1-Digest: zz4C0axGs1Bpd+EM3cRBWgu8U2c=
+
+Name: assets/Android/gui/textures/ui_pic_xiulian.ab
+SHA1-Digest: 3D6Gn+HvNvZk1ZmCTy8TYkJEcf8=
+
+Name: assets/bin/Data/b44d2ca11a7157e4db9f1e02f5249f95
+SHA1-Digest: YBkDouwxyykyjCPIMz/sHbrvc28=
+
+Name: assets/Android/gui/textures/62000.ab
+SHA1-Digest: AKTbdeqL5qeK0q5Av9PeMml6PlY=
+
+Name: assets/Android/gui/textures/64005.ab
+SHA1-Digest: cXXWOrLV0SjrpyOUOLMEU/vt9co=
+
+Name: assets/Android/gui/textures/ui_panel_gongnengkaiqi.ab
+SHA1-Digest: jCXkp0E5MxUVK1xu2b/UADTj+bM=
+
+Name: assets/bin/Data/splash.png
+SHA1-Digest: 27tkAQ8SvHgZUq0gCJN39/w9CSc=
+
+Name: assets/Android/models/22010.ab
+SHA1-Digest: ap1DdNvZwLlwqjqxn7J+KWnU0Ko=
+
+Name: assets/Android/gui/textures/ui_sqfb_picture.ab
+SHA1-Digest: ABZXCzACdFIPrJBtFZUOq/53XyM=
+
+Name: assets/Android/gui/textures/ui_pic_drfb_07.ab
+SHA1-Digest: zj4Q0lxN1AjeOjO8QMZZoXESIh8=
+
+Name: assets/Android/lua/lua_view_multicopy.unity3d
+SHA1-Digest: 9QW4ugpqF0RA8h8jlF5l+lpKd3M=
+
+Name: assets/Android/lua/lua_controller_fuben.unity3d
+SHA1-Digest: jm5sZiDa4KFI9xFYl2UM/Csrh7s=
+
+Name: assets/Android/gui/textures/19_10001.ab
+SHA1-Digest: vKgRz+BD5A4YSN+smDBGvRSMRN4=
+
+Name: assets/Android/gui/atlas_main.ab
+SHA1-Digest: N2UhbkoePlX6j3VxRbHIgvmiI7s=
+
+Name: assets/Android/lua/lua_controller_team.unity3d
+SHA1-Digest: dy5U09JApNxHoCqtBAPLU7lPPpA=
+
+Name: assets/bin/Data/3e90f8f033d17114297577d8cde2677e
+SHA1-Digest: 07aHCue0tQdeQ7lQZexLK7Z+M4Q=
+
+Name: assets/Android/lua/lua_3rd_cjson.unity3d
+SHA1-Digest: 6RGg+ov1jjcxTAj54iZ1JZp6cek=
+
+Name: assets/Android/lua/lua_setting_npc.unity3d
+SHA1-Digest: J3Ll0vYqU9B4F5z3t+EYiCbrLt4=
+
+Name: assets/Android/gui/textures/minimap10001.ab
+SHA1-Digest: cw2xarjL60hg1KadQfNxYj0EnC4=
+
+Name: assets/Android/gui/textures/13_20004.ab
+SHA1-Digest: cb4vTxZEqZ7ROYIfY8050FEwKK0=
+
+Name: assets/Android/gui/textures/12_10003.ab
+SHA1-Digest: pY/s00wd7828UriwFr+3Kv4YHlw=
+
+Name: assets/bin/Data/sharedassets2.assets
+SHA1-Digest: PF/pql3Y2zCPm2xQpRK9cOtFmH4=
+
+Name: assets/Android/models/70005.ab
+SHA1-Digest: BcEfWq6RdCjkRDPpg9P884NZ2zQ=
+
+Name: assets/bin/Data/c1a1a853dbf26fb4fbb610bbfdb6e242
+SHA1-Digest: 5p7KdB/eEXT4Sb7ulpvUJFBoOB0=
+
+Name: assets/Android/gui/textures/ui_zhandouli_ss_3.ab
+SHA1-Digest: Ax1J15+WzcmFcgU1InDREcA2Crw=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: Q3VXnZShCsiBFKGQomlVF6d2HyI=
+
+Name: assets/bin/Data/61f3f072ea742714e8270b22bda3170d
+SHA1-Digest: vnsIRLKcFhaEfil4Pp6m0kci21I=
+
+Name: assets/Android/lua/lua_view_common.unity3d
+SHA1-Digest: e5R1jkV3TICcJJJyMF9QMrW1jCs=
+
+Name: assets/Android/gui/textures/ui_zljfb_pic_05.ab
+SHA1-Digest: UZLMWhgMP3ixYHAzkmynAzXyTUU=
+
+Name: assets/Android/models/100001.ab
+SHA1-Digest: abHLL04o5MqDjv0BR3dkN2xHZME=
+
+Name: assets/Android/gui/textures/11_10003.ab
+SHA1-Digest: 68NHEFGPMzQ5P5iNvPEZlTy4DcY=
+
+Name: assets/bin/Data/4c78a2584e7ddf44fb2a6ae1cb037ef7
+SHA1-Digest: MEGhow7ORl5WoZl1GXZwD/e5NIE=
+
+Name: assets/Android/lua/lua_view_team.unity3d
+SHA1-Digest: SCzI/gB53UXFLXX+z4Vs5ye5uEE=
+
+Name: assets/Android/lua/lua_controller_rewardhall.unity3d
+SHA1-Digest: D6FISBvTeG8BeMxRsKtcQESxgPo=
+
+Name: assets/Android/gui/textures/ui_vipfb_role03.ab
+SHA1-Digest: WMbQFMi6ryiECgxIsiltodr1MQs=
+
+Name: assets/Android/models/30001.ab
+SHA1-Digest: WDU3HRf2NR9WsNDHs7Hm/nFuncs=
+
+Name: assets/Android/lua/lua_view_sevenday.unity3d
+SHA1-Digest: UoxvnqjAVqf2y51AWmWmXi/Rzu4=
+
+Name: assets/Android/gui/textures/ui_opaquedark_mask.ab
+SHA1-Digest: /OdIZJcKb2AMjWCIkUjaoMIwnFw=
+
+Name: assets/Android/gui/textures/ui_shijieditu_bj3.ab
+SHA1-Digest: TDHrnbRqMx9Mt2CIlOFBXIL+wo0=
+
+Name: assets/Android/gui/textures/ui_jm_pic_background.ab
+SHA1-Digest: Uz/LE6RmP1mhX12BfWQwuyV5kW4=
+
+Name: res/drawable-hdpi-v4/app_icon.png
+SHA1-Digest: P+4ztSdPxElCYTNzeQ204JrVw48=
+
+Name: assets/Android/models/61001.ab
+SHA1-Digest: 02zQPwEOoPMH6Zrhqj5QrYfaCGY=
+
+Name: assets/bin/Data/Managed/Debugger.dll
+SHA1-Digest: hs/Cs0IxJBGp3l8nlOcIZ3WQbYQ=
+
+Name: assets/Android/lua/lua_map_char.unity3d
+SHA1-Digest: XLbQKrI0tTrmyGtkfsNqfqqXBgI=
+
+Name: assets/Android/gui/textures/ui_shijieditu_bj2.ab
+SHA1-Digest: Bq+P39jZUiyXGTN4P+2o+T1CW8M=
+
+Name: assets/Android/gui/textures/ui_zljfb_pic_04.ab
+SHA1-Digest: ntvRRfQaEyGeZYms3YSM3ghGQu8=
+
+Name: assets/bin/Data/9300d87db4ad0b0439f6fb97c3ce8ccf
+SHA1-Digest: ODisLSlNqJuDYDaQhO9+fMPbBN8=
+
+Name: assets/Android/gui/textures/ui_bangpai_buj04_2.ab
+SHA1-Digest: RMGFVUEhQzajHsvrRll7sQ5OZkA=
+
+Name: assets/bin/Data/level0
+SHA1-Digest: XSlk+l6y3Cs9zrKizuAIXhNYbO0=
+
+Name: assets/bin/Data/f3fd145b191cf4040ac6b55cda352a53
+SHA1-Digest: TzNzoA4+OJOweuYoAVU/A176x18=
+
+Name: assets/bin/Data/level2
+SHA1-Digest: Q4yh3HLYDxmb9gKXQ68FYUuUbtc=
+
+Name: assets/Android/models/70003.ab
+SHA1-Digest: LMUPFQw9I8AACzAREd4hl8Q0nOI=
+
+Name: assets/bin/Data/level1
+SHA1-Digest: OEkKk+4PeeLwSwxDkJ2LQ19raqU=
+
+Name: assets/Android/gui/textures/ui_shijieditu_bj1.ab
+SHA1-Digest: ZsYnqsbivaySkiJsO/mtZaiPfRs=
+
+Name: assets/bin/Data/720c2c242cde13e4188964c550502b5e
+SHA1-Digest: l/ZrGZi4yVrdIKFo60PodBod/UM=
+
+Name: assets/bin/Data/064ce7f9fcc2fba4a885cc163c7354df
+SHA1-Digest: CbEE7tBp9Gi4LBqdPE1toQDyp+Y=
+
+Name: assets/Android/models/35004.ab
+SHA1-Digest: LskHwR9VSnfIZXbLgOYMQw3tQV8=
+
+Name: lib/x86/libBugly.so
+SHA1-Digest: 4mzt+VQuk2TQyhfWLeRwdprEL4E=
+
+Name: assets/Android/gui/textures/ui_pic_duanzao_lianqi01.ab
+SHA1-Digest: GCq1+bZ4aeTcdVQf4VYxBRjvnQg=
+
+Name: assets/Android/models/22000.ab
+SHA1-Digest: xGVElNS17qyxYhH8Iqu2JpU1QC4=
+
+Name: assets/Android/lua/lua_view_guide.unity3d
+SHA1-Digest: /nId2/j/aDXVtZehUsQT+ApPlTs=
+
+Name: assets/Android/gui/textures/ui_drfb_cj03.ab
+SHA1-Digest: rkDq67ownbUxY2dBi8torK6w9SA=
+
+Name: assets/Android/gui/textures/ui_drfb_cj04.ab
+SHA1-Digest: 5oLaJjZkwgLsHIm7/dvzs1DYO0Q=
+
+Name: assets/Android/gui/textures/ui_zjfb_pic_01.ab
+SHA1-Digest: bTI2OALca5vNM/2m/gJf6ahxSDM=
+
+Name: assets/Android/effect/sectoreffect.ab
+SHA1-Digest: jhwtweV6V93Sd74DOAMxHQffkoo=
+
+Name: assets/bin/Data/settings.xml
+SHA1-Digest: unbp798+TLwlf7UDV3Db2TKCHoI=
+
+Name: assets/Android/gui/textures/ui_flowerspanel.ab
+SHA1-Digest: +51LHb6Ax70ZlzZHblxtrb4oASo=
+
+Name: assets/bin/Data/222c64d503379884db00185ebbe08590
+SHA1-Digest: 767vMVpiE1d3xx//0AKHZ4awz4M=
+
+Name: assets/bin/Data/Managed/UnityEngine.UI.dll
+SHA1-Digest: 2cQR9ik+R5fePH4XozaVRDTqrKg=
+
+Name: assets/Android/sound/sound_effect.ab
+SHA1-Digest: zSRw6gLmPdNKY/sOJFEDMiTeXIc=
+
+Name: assets/Android/gui/textures/ui_liaotian_xiaoxitiao.ab
+SHA1-Digest: FI7J9pt+LBCqalpEPBAC73+II+g=
+
+Name: assets/Android/gui/textures/ui_vipfb_role04.ab
+SHA1-Digest: 7PiJkv4Sfk1m/DkLRLkRgZyBFqU=
+
